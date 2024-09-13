@@ -1,5 +1,5 @@
 public class TestApp {
-	public Test() {
+	public void Test() {
 
 	}
 }
