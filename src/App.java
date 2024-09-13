@@ -12,6 +12,6 @@ public class App {
         // add Eclipse
         System.out.println("test3");
         // add Eclipse
-        System.out.println("testggggggggggggg");
+        System.out.println("test");
     }
 }
