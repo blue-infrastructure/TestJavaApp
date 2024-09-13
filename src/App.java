@@ -9,7 +9,5 @@ public class App {
         System.out.println("testetst");
         // add vc
         System.out.println("test2");
-        // add　eclipse
-        System.out.println("test３");
     }
 }
